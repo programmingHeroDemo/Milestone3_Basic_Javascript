@@ -1,0 +1,8 @@
+
+1. KilometerToMeter    (1 input paramenter. return meter, don't consol log)
+2. budgetCalculator    (take 3 input parameter=> (ghori_n,phone_n,laptop_n) dam fix (ghori=50,phone=100,laptop=500) (return total budget, don't consol log)
+3. hotelCost	(1st 10 day =100tk(everyday), 2nd 10 day 80tk(everyday),3rd 10 to any 50tk(everyday) (1 input paramenter, how many days. return total cost, don't consol log)
+4. megaFriend	(input parameter = array[], defined many random name in array.) (return maxLength name.)  
+
+special task: 1. never take unespected value such as negative value.
+			  2. meaningFull variable name\.
