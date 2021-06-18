@@ -30,7 +30,7 @@ const hotelCost = (total_days) => {
     }
 }
 
-console.log(hotelCost(29))
+hotelCost(29)
 
 // 4. Answer
 const megaFriend = (arg) => {
